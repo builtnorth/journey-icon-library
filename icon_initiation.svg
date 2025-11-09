@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #0f2b4d;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 8.75px;
+      }
+    </style>
+  </defs>
+  <g id="cursor-click">
+    <path id="Union" class="cls-1" d="m83.22,61.22l10.07,45.32,11.33-11.33,16.37,16.37,12.59-12.59-16.36-16.37,11.33-11.33-45.32-10.07Z"/>
+    <path id="vector_588" data-name="vector 588" class="cls-1" d="m54.89,54.23l12.34,3.31"/>
+    <path id="vector_589" data-name="vector 589" class="cls-1" d="m60.13,83.93l9.04-9.04"/>
+    <path id="vector_591" data-name="vector 591" class="cls-1" d="m76.55,32.58l3.31,12.34"/>
+    <path id="vector_592" data-name="vector 592" class="cls-1" d="m106.24,37.82l-9.03,9.03"/>
+  </g>
+  <path class="cls-1" d="m40.52,86.39H6.43V28.43h53.7"/>
+</svg>
