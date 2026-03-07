@@ -1,1 +1,21 @@
-<svg viewBox="0 0 140 140" height="140" width="140" xmlns="http://www.w3.org/2000/svg"><g transform="matrix(5.833333333333333,0,0,5.833333333333333,0,0)"><path d="M15.75,8.25V1.5A.75.75,0,0,0,14.737.8l-8.25,4.27A.75.75,0,0,0,6,5.77V9.75" fill="none" stroke="#0F2B4D" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path><path d="M13.5 5.25L15.75 5.25" fill="none" stroke="#0F2B4D" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path><path d="M12 8.25L15.75 8.25" fill="none" stroke="#0F2B4D" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path><path d="M0.75 12.75L3 12.75" fill="none" stroke="#0F2B4D" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path><path d="M0.75 15.75L4.5 15.75" fill="none" stroke="#0F2B4D" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path><path d="M8.25 4.156L8.25 0.751" fill="none" stroke="#0F2B4D" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path><path d="M8.25,23.25v-12a1.5,1.5,0,0,0-1.5-1.5H2.25a1.5,1.5,0,0,0-1.5,1.5v12h9" fill="none" stroke="#0F2B4D" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path><path d="M23.25,15.75a7.669,7.669,0,0,1-6,7.5,7.669,7.669,0,0,1-6-7.5v-3a1.5,1.5,0,0,1,1.5-1.5h9a1.5,1.5,0,0,1,1.5,1.5Z" fill="none" stroke="#0F2B4D" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path><path d="M17.25 15L17.25 19.5" fill="none" stroke="#0F2B4D" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path><path d="M15 17.25L19.5 17.25" fill="none" stroke="#0F2B4D" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 140 140">
+  <!-- Generator: Adobe Illustrator 29.6.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 207)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #0f2b4d;
+      }
+    </style>
+  </defs>
+  <path class="st0" d="M35,61.2c-2.4,0-4.4-2-4.4-4.4v-23.2c0-3.5,2.2-6.7,5.4-8.1L84,.8c.2,0,.3-.2.5-.2,1-.4,2-.6,3-.6h0c4.8,0,8.7,3.9,8.8,8.7v39.4c0,2.4-2,4.4-4.4,4.4s-4.4-2-4.4-4.4V8.8l-47.6,24.7c-.2,0-.3.2-.5.2v23.2c0,2.4-2,4.4-4.4,4.4Z"/>
+  <path class="st0" d="M91.9,35h-13.1c-2.4,0-4.4-2-4.4-4.4s2-4.4,4.4-4.4h13.1c2.4,0,4.4,2,4.4,4.4s-2,4.4-4.4,4.4Z"/>
+  <path class="st0" d="M91.9,52.5h-21.9c-2.4,0-4.4-2-4.4-4.4s2-4.4,4.4-4.4h21.9c2.4,0,4.4,2,4.4,4.4s-2,4.4-4.4,4.4Z"/>
+  <path class="st0" d="M17.5,78.8H4.4c-2.4,0-4.4-2-4.4-4.4s2-4.4,4.4-4.4h13.1c2.4,0,4.4,2,4.4,4.4s-2,4.4-4.4,4.4Z"/>
+  <path class="st0" d="M26.2,96.2H4.4c-2.4,0-4.4-2-4.4-4.4s2-4.4,4.4-4.4h21.9c2.4,0,4.4,2,4.4,4.4s-2,4.4-4.4,4.4Z"/>
+  <path class="st0" d="M48.1,28.6c-2.4,0-4.4-2-4.4-4.4V4.4C43.8,2,45.7,0,48.1,0s4.4,2,4.4,4.4v19.9c0,2.4-2,4.4-4.4,4.4Z"/>
+  <path class="st0" d="M56.9,140H4.4c-2.4,0-4.4-2-4.4-4.4v-70c0-7.2,5.9-13.1,13.1-13.1h26.2c7.2,0,13.1,5.9,13.1,13.1v65.6h4.4c2.4,0,4.4,2,4.4,4.4s-2,4.4-4.4,4.4ZM8.8,131.2h35v-65.6c0-2.4-2-4.4-4.4-4.4H13.1c-2.4,0-4.4,2-4.4,4.4v65.6Z"/>
+  <path class="st0" d="M100.6,140c-.3,0-.6,0-1-.1-22.7-5.1-38.5-24.8-38.4-48v-17.5c0-7.2,5.9-13.1,13.1-13.1h52.5c7.2,0,13.1,5.9,13.1,13.1v17.5c0,23.2-15.8,43-38.4,48-.3,0-.6.1-1,.1ZM74.4,70c-2.4,0-4.4,2-4.4,4.4v17.5c0,18.8,12.5,34.8,30.6,39.3,18.1-4.5,30.7-20.5,30.6-39.2h0v-17.5c0-2.4-2-4.4-4.4-4.4h-52.5Z"/>
+  <path class="st0" d="M100.6,118.1c-2.4,0-4.4-2-4.4-4.4v-26.2c0-2.4,2-4.4,4.4-4.4s4.4,2,4.4,4.4v26.2c0,2.4-2,4.4-4.4,4.4Z"/>
+  <path class="st0" d="M113.8,105h-26.2c-2.4,0-4.4-2-4.4-4.4s2-4.4,4.4-4.4h26.2c2.4,0,4.4,2,4.4,4.4s-2,4.4-4.4,4.4Z"/>
+</svg>

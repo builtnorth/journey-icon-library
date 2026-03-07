@@ -1,1 +1,18 @@
-<svg viewBox="0 0 140 140" height="140" width="140" xmlns="http://www.w3.org/2000/svg"><g transform="matrix(5.833333333333333,0,0,5.833333333333333,0,0)"><path d="M14.250 15.750 L23.250 15.750 L23.250 23.250 L14.250 23.250 Z" fill="none" stroke="#0F2B4D" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path><path d="M18.75,11.25h0a3,3,0,0,0-3,3v1.5h6v-1.5A3,3,0,0,0,18.75,11.25Z" fill="none" stroke="#0F2B4D" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path><path d="M18.75,19.154a.375.375,0,1,1-.375.375.375.375,0,0,1,.375-.375" fill="none" stroke="#0F2B4D" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path><path d="M3.75 6.75L14.25 6.75" fill="none" stroke="#0F2B4D" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path><path d="M3.75 11.25L12 11.25" fill="none" stroke="#0F2B4D" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path><path d="M3.75 15.75L9.75 15.75" fill="none" stroke="#0F2B4D" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path><path d="M11.25,20.25h-9a1.5,1.5,0,0,1-1.5-1.5V2.25A1.5,1.5,0,0,1,2.25.75H12.879a1.5,1.5,0,0,1,1.06.439l2.872,2.872a1.5,1.5,0,0,1,.439,1.06V7.5" fill="none" stroke="#0F2B4D" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 140 140">
+  <!-- Generator: Adobe Illustrator 29.6.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 207)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #0f2b4d;
+      }
+    </style>
+  </defs>
+  <path class="st0" d="M135.6,140h-52.5c-2.4,0-4.4-2-4.4-4.4v-43.8c0-2.4,2-4.4,4.4-4.4h52.5c2.4,0,4.4,2,4.4,4.4v43.8c0,2.4-2,4.4-4.4,4.4ZM87.5,131.2h43.8v-35h-43.8v35Z"/>
+  <path class="st0" d="M126.9,96.2h-35c-2.4,0-4.4-2-4.4-4.4v-8.8c0-12.1,9.8-21.9,21.9-21.9s21.9,9.8,21.9,21.9v8.8c0,2.4-2,4.4-4.4,4.4ZM96.2,87.5h26.2v-4.4c0-7.2-5.9-13.1-13.1-13.1s-13.1,5.9-13.1,13.1v4.4Z"/>
+  <path class="st0" d="M109.4,120.5c-3.6,0-6.6-2.9-6.6-6.6s2.9-6.6,6.6-6.6,6.6,2.9,6.6,6.6-2.9,6.6-6.6,6.6ZM109.4,111.7c-1.2,0-2.2,1-2.2,2.2s1,2.2,2.2,2.2,2.2-1,2.2-2.2-1-2.2-2.2-2.2Z"/>
+  <path class="st0" d="M83.1,43.8H21.9c-2.4,0-4.4-2-4.4-4.4s2-4.4,4.4-4.4h61.2c2.4,0,4.4,2,4.4,4.4s-2,4.4-4.4,4.4Z"/>
+  <path class="st0" d="M70,70H21.9c-2.4,0-4.4-2-4.4-4.4s2-4.4,4.4-4.4h48.1c2.4,0,4.4,2,4.4,4.4s-2,4.4-4.4,4.4Z"/>
+  <path class="st0" d="M56.9,96.2H21.9c-2.4,0-4.4-2-4.4-4.4s2-4.4,4.4-4.4h35c2.4,0,4.4,2,4.4,4.4s-2,4.4-4.4,4.4Z"/>
+  <path class="st0" d="M65.6,122.5H13.1c-7.2,0-13.1-5.9-13.1-13.1V13.1C0,5.9,5.9,0,13.1,0h62c3.5,0,6.8,1.4,9.3,3.8l16.8,16.8c2.5,2.5,3.8,5.8,3.8,9.3v13.9c0,2.4-2,4.4-4.4,4.4s-4.4-2-4.4-4.4v-13.9c0-1.2-.5-2.3-1.3-3.1l-16.8-16.8c-.8-.8-1.9-1.3-3.1-1.3H13.1c-2.4,0-4.4,2-4.4,4.4v96.2c0,2.4,2,4.4,4.4,4.4h52.5c2.4,0,4.4,2,4.4,4.4s-2,4.4-4.4,4.4Z"/>
+</svg>
