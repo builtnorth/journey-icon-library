@@ -1,1 +1,14 @@
-<svg viewBox="0 0 140 140" height="140" width="140" xmlns="http://www.w3.org/2000/svg"><g transform="matrix(5.833333333333333,0,0,5.833333333333333,0,0)"><path d="M16.313,7.68l-5.592,5.592a.82.82,0,0,1-1.158,0L7.688,11.4" fill="none" stroke="#102B4D" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path><path d="M22.371,17.39l-4.992,4.993a3,3,0,0,1-2.122.878H3.75a3,3,0,0,1-3-3V3.761a3,3,0,0,1,3-3h16.5a3,3,0,0,1,3,3V15.269A3,3,0,0,1,22.371,17.39Z" fill="none" stroke="#102B4D" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path><path d="M15.75,23.22V18.761a3,3,0,0,1,3-3h4.459" fill="none" stroke="#102B4D" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 140 140">
+  <!-- Generator: Adobe Illustrator 29.6.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 207)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #102b4d;
+      }
+    </style>
+  </defs>
+  <path class="st0" d="M59.2,83.2c-2.3,0-4.7-.9-6.5-2.7l-10.9-10.9c-1.7-1.7-1.7-4.5,0-6.2,1.7-1.7,4.5-1.7,6.2,0l10.9,10.9c.2.2.4.2.6,0l32.6-32.6c1.7-1.7,4.5-1.7,6.2,0,1.7,1.7,1.7,4.5,0,6.2l-32.6,32.6c-1.8,1.8-4.1,2.7-6.5,2.7Z"/>
+  <path class="st0" d="M89,140.1H21.9c-12.1,0-21.9-9.8-21.9-21.9V21.9C0,9.9,9.8,0,21.9,0h96.2c12.1,0,21.9,9.8,21.9,21.9v67.1c0,5.8-2.3,11.3-6.4,15.5l-29.1,29.1c-4.1,4.1-9.6,6.4-15.5,6.4ZM21.9,8.8c-7.2,0-13.1,5.9-13.1,13.1v96.3c0,7.2,5.9,13.1,13.1,13.1h67.1c3.5,0,6.8-1.4,9.3-3.8l29.1-29.1s0,0,0,0c2.5-2.5,3.8-5.8,3.8-9.3V21.9c0-7.2-5.9-13.1-13.1-13.1H21.9Z"/>
+  <path class="st0" d="M91.9,139.8c-2.4,0-4.4-2-4.4-4.4v-26c0-12.1,9.8-21.9,21.9-21.9h26c2.4,0,4.4,2,4.4,4.4s-2,4.4-4.4,4.4h-26c-7.2,0-13.1,5.9-13.1,13.1v26c0,2.4-2,4.4-4.4,4.4Z"/>
+</svg>

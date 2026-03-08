@@ -1,1 +1,16 @@
-<svg viewBox="0 0 140 140" height="140" width="140" xmlns="http://www.w3.org/2000/svg"><g transform="matrix(5.833333333333333,0,0,5.833333333333333,0,0)"><path d="M3.744 18.75L20.244 18.75" fill="none" stroke="#0F2B4D" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path><path d="M3.747 0.750 L20.247 0.750 L20.247 23.250 L3.747 23.250 Z" fill="none" stroke="#0F2B4D" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path><path d="M7.497 5.25H10.497V8.25H7.497z" fill="none" stroke="#0F2B4D" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path><path d="M13.497 5.25H16.497V8.25H13.497z" fill="none" stroke="#0F2B4D" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path><path d="M7.497 11.25H10.497V14.25H7.497z" fill="none" stroke="#0F2B4D" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 140 140">
+  <!-- Generator: Adobe Illustrator 29.6.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 207)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #0f2b4d;
+      }
+    </style>
+  </defs>
+  <path class="st0" d="M118.1,113.8H21.8c-2.4,0-4.4-2-4.4-4.4s2-4.4,4.4-4.4h96.2c2.4,0,4.4,2,4.4,4.4s-2,4.4-4.4,4.4Z"/>
+  <path class="st0" d="M118.1,140H21.9c-2.4,0-4.4-2-4.4-4.4V4.4c0-2.4,2-4.4,4.4-4.4h96.2c2.4,0,4.4,2,4.4,4.4v131.2c0,2.4-2,4.4-4.4,4.4ZM26.2,131.2h87.5V8.8H26.2v122.5Z"/>
+  <path class="st0" d="M61.2,52.5h-17.5c-2.4,0-4.4-2-4.4-4.4v-17.5c0-2.4,2-4.4,4.4-4.4h17.5c2.4,0,4.4,2,4.4,4.4v17.5c0,2.4-2,4.4-4.4,4.4ZM48.1,43.8h8.8v-8.8h-8.8v8.8Z"/>
+  <path class="st0" d="M96.2,52.5h-17.5c-2.4,0-4.4-2-4.4-4.4v-17.5c0-2.4,2-4.4,4.4-4.4h17.5c2.4,0,4.4,2,4.4,4.4v17.5c0,2.4-2,4.4-4.4,4.4ZM83.1,43.8h8.8v-8.8h-8.8v8.8Z"/>
+  <path class="st0" d="M61.2,87.5h-17.5c-2.4,0-4.4-2-4.4-4.4v-17.5c0-2.4,2-4.4,4.4-4.4h17.5c2.4,0,4.4,2,4.4,4.4v17.5c0,2.4-2,4.4-4.4,4.4ZM48.1,78.8h8.8v-8.8h-8.8v8.8Z"/>
+</svg>

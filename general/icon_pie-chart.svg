@@ -1,1 +1,13 @@
-<svg viewBox="0 0 140 140" height="140" width="140" xmlns="http://www.w3.org/2000/svg"><g transform="matrix(5.833333333333333,0,0,5.833333333333333,0,0)"><path d="M13.5,1.5v9h9A9,9,0,0,0,13.5,1.5Z" fill="none" stroke="#0F2B4D" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path><path d="M10.5,4.5a9,9,0,1,0,9,9h-9Z" fill="none" stroke="#0F2B4D" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 140 140">
+  <!-- Generator: Adobe Illustrator 29.6.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 207)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #0f2b4d;
+      }
+    </style>
+  </defs>
+  <path class="st0" d="M131.2,65.6h-52.5c-2.4,0-4.4-2-4.4-4.4V8.8c0-2.4,2-4.4,4.4-4.4,31.4,0,56.9,25.5,56.9,56.9s-2,4.4-4.4,4.4ZM83.1,56.9h43.6c-2.1-23.1-20.5-41.5-43.6-43.6v43.6Z"/>
+  <path class="st0" d="M61.2,135.6c-31.4,0-56.9-25.5-56.9-56.9S29.9,21.9,61.2,21.9s4.4,2,4.4,4.4v48.1h48.1c2.4,0,4.4,2,4.4,4.4,0,31.4-25.5,56.9-56.9,56.9ZM56.9,30.8c-24.5,2.2-43.8,22.9-43.8,47.9s21.6,48.1,48.1,48.1,45.7-19.3,47.9-43.8h-47.9c-2.4,0-4.4-2-4.4-4.4V30.8Z"/>
+</svg>

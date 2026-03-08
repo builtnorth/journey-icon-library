@@ -1,1 +1,17 @@
-<svg viewBox="0 0 140 140" height="140" width="140" xmlns="http://www.w3.org/2000/svg"><g transform="matrix(5.833333333333333,0,0,5.833333333333333,0,0)"><path d="M4.5,7.125a.375.375,0,1,0,.375.375A.375.375,0,0,0,4.5,7.125h0" fill="none" stroke="#0F2B4D" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path><path d="M4.5,16.125a.375.375,0,1,0,.375.375.375.375,0,0,0-.375-.375h0" fill="none" stroke="#0F2B4D" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path><path d="M18.751,3a4.5,4.5,0,0,1,0,9H5.251a4.5,4.5,0,0,1,0-9Z" fill="none" stroke="#0F2B4D" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path><path d="M18.751,12a4.5,4.5,0,1,1,0,9H5.251a4.5,4.5,0,0,1,0-9Z" fill="none" stroke="#0F2B4D" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path><path d="M10.501 7.5L18.751 7.5" fill="none" stroke="#0F2B4D" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path><path d="M10.501 16.5L18.751 16.5" fill="none" stroke="#0F2B4D" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 140 140">
+  <!-- Generator: Adobe Illustrator 29.6.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 207)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #0f2b4d;
+      }
+    </style>
+  </defs>
+  <path class="st0" d="M26.2,50.3c-3.6,0-6.6-2.9-6.6-6.6s2.9-6.6,6.6-6.6,6.6,2.9,6.6,6.6-2.9,6.6-6.6,6.6Z"/>
+  <path class="st0" d="M26.2,102.8c-3.6,0-6.6-2.9-6.6-6.6s2.9-6.6,6.6-6.6,6.6,2.9,6.6,6.6-2.9,6.6-6.6,6.6Z"/>
+  <path class="st0" d="M109.4,74.4H30.6C13.7,74.4,0,60.6,0,43.8S13.7,13.1,30.6,13.1h78.8c16.9,0,30.6,13.7,30.6,30.6s-13.7,30.6-30.6,30.6ZM30.6,21.9c-12.1,0-21.9,9.8-21.9,21.9s9.8,21.9,21.9,21.9h78.8c12.1,0,21.9-9.8,21.9-21.9s-9.8-21.9-21.9-21.9H30.6Z"/>
+  <path class="st0" d="M109.4,126.9H30.6C13.7,126.9,0,113.1,0,96.2s13.7-30.6,30.6-30.6h78.8c16.9,0,30.6,13.7,30.6,30.6s-13.7,30.6-30.6,30.6ZM30.6,74.4c-12.1,0-21.9,9.8-21.9,21.9s9.8,21.9,21.9,21.9h78.8c12.1,0,21.9-9.8,21.9-21.9s-9.8-21.9-21.9-21.9H30.6Z"/>
+  <path class="st0" d="M109.4,48.1h-48.1c-2.4,0-4.4-2-4.4-4.4s2-4.4,4.4-4.4h48.1c2.4,0,4.4,2,4.4,4.4s-2,4.4-4.4,4.4Z"/>
+  <path class="st0" d="M109.4,100.6h-48.1c-2.4,0-4.4-2-4.4-4.4s2-4.4,4.4-4.4h48.1c2.4,0,4.4,2,4.4,4.4s-2,4.4-4.4,4.4Z"/>
+</svg>
